@@ -52,7 +52,7 @@ Pažymiai
  ![image](https://user-images.githubusercontent.com/15565869/208710725-7e800fd6-4b11-4640-ae8f-7006a5e2080e.png)
 ![image](https://user-images.githubusercontent.com/15565869/208710745-9e81295d-cdea-4999-b3e3-911c2dbad0dd.png)
 
-#API Specifikacija
+# API Specifikacija
 Sukurti kursą
 ![image](https://user-images.githubusercontent.com/15565869/208711008-07911e05-4e0b-4e2c-8428-ab7849485946.png)
 
@@ -98,6 +98,6 @@ Pakeisti pažymį
 Ištrinti pažymį
  ![image](https://user-images.githubusercontent.com/15565869/208711360-0f18a8c4-bdc7-4810-a2ad-a2cdeef0f3ba.png)
 
-#Išvados
+# Išvados
 Semestro metu pavyko sukurti veikiantį projektą, naudojant „React“ „.Net“ technologijas, pasinaudojant MSSQL duomenų baze. Visas projektas sėkmingai patalpintas „Azure“ debesyje, todėl yra patikimai pasiekiamas internetu visame pasaulyje.
  
